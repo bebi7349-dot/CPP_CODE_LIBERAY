@@ -1,8 +1,8 @@
-# 🖥️ Complete C++ Project
+# 🖥️ Complete C++ and oops concepts.-
 
-[![GitHub stars](https://img.shields.io/github/stars/bebi7349-dot/CPP_CODE_LIBERAY?style=social)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME?style=social)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/network)
-[![GitHub license](https://img.shields.io/github/license/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/bebi7349-dot/CPP_CODE_LIBRARY?style=social)](https://github.com/bebi7349-dot/CPP_CODE_LIBRARY/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/bebi7349-dot/CPP_CODE_LIBRARY?style=social)](https://github.com/bebi7349-dot/CPP_CODE_LIBRARY/network)
+[![GitHub license](https://img.shields.io/github/license/YOUR_GITHUB_USERNAME/CPP_CODE_LIBRARY)](https://github.com/bebi7349-dot/CPP_CODE_LIBRARY/blob/main/LICENSE)
 
 ---
 
@@ -14,11 +14,11 @@ This repository contains examples of **all major C++ topics**, from basics to ad
 
 ## 🌐 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bebi)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bebi)  
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bebi7349-dot)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bebi-kumari-5368a236b)  
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bebi)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bebi)  
-[![Email](https://img.shields.io/badge/Email-%23D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bebi@example.com)                                                                                                                                                                                                                                                   
+[![Email](https://img.shields.io/badge/Email-%23D44638?style=for-the-badge&logo=gmail&logoColor=white)](bebi7349@gmail.com)                                                                                                                                                                                                                                                   
 ## 🛠️ Languages & Tools  
 <p> 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -116,4 +116,12 @@ This repository contains examples of **all major C++ topics**, from basics to ad
 *Improve code readability
 
 *Suggest new C++ topics or projects
+---
+Thank you for checking out this project!  
+If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.  
+Happy coding in C++ 🚀
+---
+Built with ❤️ in C++  
+Contributions and feedback are always welcome!
+
 
