@@ -18,7 +18,8 @@ This repository contains examples of **all major C++ topics**, from basics to ad
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bebi)  
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bebi)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bebi)  
-[![Email](https://img.shields.io/badge/Email-%23D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bebi@example.com)  
+[![Email](https://img.shields.io/badge/Email-%23D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bebi@example.com)                                                                                                                                                                                                                                                   
+## 🛠️ Languages & Tools  
 <p> 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-004488?style=for-the-badge&logo=cplusplus&logoColor=white"/>
