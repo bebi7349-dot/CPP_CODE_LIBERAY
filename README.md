@@ -1,6 +1,6 @@
 # 🖥️ Complete C++ Project
 
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME?style=social)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/bebi7349-dot/CPP_CODE_LIBERAY?style=social)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME?style=social)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/network)
 [![GitHub license](https://img.shields.io/github/license/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/LICENSE)
 
@@ -94,22 +94,26 @@ This repository contains examples of **all major C++ topics**, from basics to ad
    git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
    g++ main.cpp -o program
    ./program
+
+
 💡 Recommendations / Tips
 
-Start with basics before moving to OOP and advanced topics.
+*Start with basics before moving to OOP and advanced topics.
 
-Practice small programs for each concept.
+*Practice small programs for each concept.
 
-Use STL for efficient coding.
+*Use STL for efficient coding.
 
-Comment your code and organize projects in folders.
+*Comment your code and organize projects in folders.
 
-Track progress with GitHub to showcase your learning.
+*Track progress with GitHub to showcase your learning.                                                                                                                                                                             
+
+
 ✨ Contribution
 
-Add more examples for each topic
+*Add more examples for each topic
 
-Improve code readability
+*Improve code readability
 
-Suggest new C++ topics or projects
+*Suggest new C++ topics or projects
 
