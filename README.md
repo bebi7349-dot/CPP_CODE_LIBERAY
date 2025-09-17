@@ -2,7 +2,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/bebi7349-dot/CPP_CODE_LIBRARY?style=social)](https://github.com/bebi7349-dot/CPP_CODE_LIBRARY/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/bebi7349-dot/CPP_CODE_LIBRARY?style=social)](https://github.com/bebi7349-dot/CPP_CODE_LIBRARY/network)
-[![GitHub license](https://img.shields.io/github/license/YOUR_GITHUB_USERNAME/CPP_CODE_LIBRARY)](https://github.com/bebi7349-dot/CPP_CODE_LIBRARY/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/bebi7349-dot/CPP_CODE_LIBRARY)](https://github.com/bebi7349-dot/CPP_CODE_LIBRARY/blob/main/LICENSE)
 
 ---
 
@@ -99,25 +99,22 @@ This repository contains examples of **all major C++ topics**, from basics to ad
 💡 Recommendations / Tips
 
 *Start with basics before moving to OOP and advanced topics.
-
 *Practice small programs for each concept.
-
 *Use STL for efficient coding.
-
 *Comment your code and organize projects in folders.
-
 *Track progress with GitHub to showcase your learning.                                                                                                                                                                             
 
 
 ✨ Contribution
 
 *Add more examples for each topic
-
 *Improve code readability
 
-*Suggest new C++ topics or projects
+
+
+*Suggest new C++ topics 
 ---
-Thank you for checking out this project!  
+Thank you for checking out this repo 
 If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.  
 Happy coding in C++ 🚀
 ---
