@@ -20,7 +20,11 @@ This repository contains examples of **all major C++ topics**, from basics to ad
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bebi)  
 [![Email](https://img.shields.io/badge/Email-%23D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bebi@example.com)  
 
----
+---## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bebi7349-dot&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bebi7349-dot&layout=compact&theme=radical)  
+![Streak Stats](https://streak-stats.demolab.com/?user=bebi7349-dot&theme=radical)  
 
 ## 🚀 C++ Topics Covered
 
